@@ -1,0 +1,13 @@
+C:\Users\aluno\source\repos\Ex7\Ex7\obj\Debug\Ex7.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Ex7\Ex7\bin\Debug\Ex7.exe.config
+C:\Users\aluno\source\repos\Ex7\Ex7\bin\Debug\Ex7.exe
+C:\Users\aluno\source\repos\Ex7\Ex7\bin\Debug\Ex7.pdb
+C:\Users\aluno\source\repos\Ex7\Ex7\obj\Debug\Ex7.exe
+C:\Users\aluno\source\repos\Ex7\Ex7\obj\Debug\Ex7.pdb
+C:\Users\aluno\Desktop\Ex7\Ex7\bin\Debug\Ex7.exe.config
+C:\Users\aluno\Desktop\Ex7\Ex7\bin\Debug\Ex7.exe
+C:\Users\aluno\Desktop\Ex7\Ex7\bin\Debug\Ex7.pdb
+C:\Users\aluno\Desktop\Ex7\Ex7\obj\Debug\Ex7.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Ex7\Ex7\obj\Debug\Ex7.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Ex7\Ex7\obj\Debug\Ex7.exe
+C:\Users\aluno\Desktop\Ex7\Ex7\obj\Debug\Ex7.pdb

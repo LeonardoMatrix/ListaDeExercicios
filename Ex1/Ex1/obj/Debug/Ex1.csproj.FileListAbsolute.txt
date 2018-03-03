@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\aluno\source\repos\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\aluno\source\repos\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\aluno\source\repos\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\aluno\source\repos\Ex1\Ex1\obj\Debug\Ex1.pdb

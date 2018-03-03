@@ -1,0 +1,6 @@
+E:\Topicos I _ DotNet\Lista 1\Ex_13\Ex_13\bin\Debug\Ex_13.exe.config
+E:\Topicos I _ DotNet\Lista 1\Ex_13\Ex_13\bin\Debug\Ex_13.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_13\Ex_13\bin\Debug\Ex_13.pdb
+E:\Topicos I _ DotNet\Lista 1\Ex_13\Ex_13\obj\Debug\Ex_13.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\Lista 1\Ex_13\Ex_13\obj\Debug\Ex_13.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_13\Ex_13\obj\Debug\Ex_13.pdb

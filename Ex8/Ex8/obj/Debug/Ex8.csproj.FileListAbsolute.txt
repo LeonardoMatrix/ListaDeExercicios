@@ -1,0 +1,6 @@
+C:\Users\aluno\source\repos\Ex8\Ex8\obj\Debug\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Ex8\Ex8\bin\Debug\Ex8.exe.config
+C:\Users\aluno\source\repos\Ex8\Ex8\bin\Debug\Ex8.exe
+C:\Users\aluno\source\repos\Ex8\Ex8\bin\Debug\Ex8.pdb
+C:\Users\aluno\source\repos\Ex8\Ex8\obj\Debug\Ex8.exe
+C:\Users\aluno\source\repos\Ex8\Ex8\obj\Debug\Ex8.pdb

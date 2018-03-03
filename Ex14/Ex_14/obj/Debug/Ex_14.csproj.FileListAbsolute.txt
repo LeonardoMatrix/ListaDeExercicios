@@ -1,0 +1,6 @@
+E:\Topicos I _ DotNet\Lista 1\Ex_14\Ex_14\bin\Debug\Ex_14.exe.config
+E:\Topicos I _ DotNet\Lista 1\Ex_14\Ex_14\bin\Debug\Ex_14.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_14\Ex_14\bin\Debug\Ex_14.pdb
+E:\Topicos I _ DotNet\Lista 1\Ex_14\Ex_14\obj\Debug\Ex_14.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\Lista 1\Ex_14\Ex_14\obj\Debug\Ex_14.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_14\Ex_14\obj\Debug\Ex_14.pdb
